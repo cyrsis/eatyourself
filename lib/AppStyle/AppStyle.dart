@@ -4,6 +4,6 @@ class AppStyle {
   static final String  = "";
 
   static get AppTheme => new ThemeData(
-    primarySwatch: Colors.blue,
+    primarySwatch: Colors.teal,
   );
 }
